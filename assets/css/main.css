@@ -1585,7 +1585,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #49bf9d !important;
+			color: #ffffff !important;
 			text-decoration: none;
 		}
 
@@ -2465,7 +2465,7 @@
 /* Header */
 
 	#header {
-		background-color: yellowgreen;
+		background-color: green;
 		background-attachment: scroll,								fixed;
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
@@ -2516,11 +2516,11 @@
 		}
 
 			#footer .icons a {
-				color: rgba(255, 255, 255, 0.4);
+   			 color: rgb(73, 222, 0);
 			}
 
 		#footer .copyright {
-			color: rgba(255, 255, 255, 0.4);
+    			color: rgb(73, 222, 0);
 			font-size: 0.8em;
 			list-style: none;
 			margin: 1em 0 0 0;
